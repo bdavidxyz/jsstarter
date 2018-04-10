@@ -13,6 +13,8 @@ npm install
 npm test
 ```
 
+After that, coverage can be seen under the coverage/ folder.
+
 To package all your files into one :
 ```
 $(npm bin)/gulp compress
