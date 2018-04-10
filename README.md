@@ -3,7 +3,7 @@
 
 Just enough files to start to learn vanilla JavaScript in TDD style.
 
-jQuery & Lodash are already loaded, you can also test jQuery against isolated HTML.
+jQuery & Lodash are already loaded, you can also test jQuery [against isolated HTML](https://github.com/bdavidxyz/jsstarter/blob/master/test/load_fixture_Spec.js).
 
 NodeJS must be installed on your system.
 
