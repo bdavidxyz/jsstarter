@@ -21,4 +21,4 @@ To package all your files into one :
 ```
 $(npm bin)/gulp compress
 ```
-Files in `test/` folder must end with `Spec.js` to be ran. (Can change this in [karma.conf.js](https://github.com/Kottans/karma-jasmine-starter/blob/master/karma.conf.js#L14))
+Files in `test/` folder must end with `Spec.js` to be ran. (Can change this in [karma.conf.js](https://github.com/bdavidxyz/jsstarter/blob/master/karma.conf.js#L14))
