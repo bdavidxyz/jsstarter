@@ -1,0 +1,29 @@
+{
+  "name": "jsstarter",
+  "version": "1.0.0",
+  "description": "A simple skeleton to start to learn vanilla JS in TDD style.",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js",
+    "test-dev": "npm test -- --auto-watch --no-single-run false --browsers PhantomJS"
+  },
+  "keywords": [],
+  "author": "sudodoki <smd.deluzion@gmail.com> (sudodoki.name)",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine-core": "^2.6.4"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-version-number": "0.1.7",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-coverage": "^1.1.1",
+    "karma-firefox-launcher": "^1.0.1",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.4"
+  }
+}
